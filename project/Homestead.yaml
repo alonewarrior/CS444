@@ -1,0 +1,40 @@
+---
+ip: "192.168.10.11"
+memory: 1024
+cpus: 1
+hostname: project
+name: project
+provider: virtualbox
+
+authorize: ~/.ssh/id_rsa.pub
+
+keys:
+      - ~/.ssh/id_rsa
+
+folders:
+      - map: ~/WebDev/cs444/project
+        to: /home/vagrant/cs444/project
+
+sites:
+      - map: cs444project.app
+        to: /home/vagrant/cs444/project/public
+
+databases:
+      - homestead
+
+variables:
+      - key: APP_ENV
+        value: local
+
+# blackfire:
+#     - id: foo
+#       token: bar
+#       client-id: foo
+#       client-token: bar
+
+# ports:
+#     - send: 50000
+#       to: 5000
+#     - send: 7777
+#       to: 777
+#       protocol: udp
