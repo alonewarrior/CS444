@@ -6,13 +6,8 @@ hostname: project
 name: project
 provider: virtualbox
 
-authorize: ~/.ssh/id_rsa.pub
-
-keys:
-      - ~/.ssh/id_rsa
-
 folders:
-      - map: ~/WebDev/cs444/project
+      - map: ./
         to: /home/vagrant/cs444/project
 
 sites:
