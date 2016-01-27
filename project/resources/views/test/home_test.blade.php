@@ -7,6 +7,7 @@
 
     <p>Zach Newell</p>
     <p>Blake Smola</p>
+    <p>Lukas Hoover</p>
     <p></p>
     @yield('sub_content')
 @endsection
