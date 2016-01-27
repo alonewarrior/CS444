@@ -9,6 +9,7 @@
     <p>Blake Smola</p>
     <p>Lukas Hoover</p>
     <p>Matt Mullenbach</p>
+    <p>Alex Buchanan</p>
     <p></p>
     @yield('sub_content')
 @endsection
