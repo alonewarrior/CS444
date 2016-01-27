@@ -2,9 +2,9 @@
     <head>
         @include('javascript.js')
         @include('css.styles')
-        <title>Test!</title>
+        <title>Test - @yield('title')</title>
     </head>
     <body>
-
+        @yield('main_content')
     </body>
 </html>

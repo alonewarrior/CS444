@@ -15,6 +15,8 @@ Route::get('/', function () {
     return view('layouts.master_layout');
 });
 
+Route::get('/test', 'Test_Controller@test');
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
