@@ -1,1 +1,1 @@
-<link rel="stylesheet" href="/project/resources/views/Foundation6/css/foundation.css">
+<link rel="stylesheet" type="text/css" href="assets/Foundation6/css/foundation.css">
