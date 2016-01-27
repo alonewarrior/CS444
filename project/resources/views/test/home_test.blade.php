@@ -6,6 +6,7 @@
     <h3>This is my page</h3>
 
     <p>Zach Newell</p>
+    <p>Blake Smola</p>
     <p></p>
     @yield('sub_content')
 @endsection
