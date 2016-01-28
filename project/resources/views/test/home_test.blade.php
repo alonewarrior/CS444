@@ -17,6 +17,7 @@
     <p>Alex Buchanan</p>
     <p>Sean Meyer</p>
     <p>Min Lee</p>
+    <p>Jordan Brockopp</p>
     <p></p>
     @yield('sub_content')
 @endsection
