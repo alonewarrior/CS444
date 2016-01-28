@@ -13,6 +13,7 @@
     <p>Zach Newell</p>
     <p>Blake Smola</p>
     <p>Lukas Hoover</p>
+	<p>Thor Holmquist</p>
     <p>Matt Mullenbach</p>
     <p>Alex Buchanan</p>
     <p>Sean Meyer</p>
