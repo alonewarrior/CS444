@@ -13,6 +13,7 @@
     <p>Lukas Hoover</p>
     <p>Matt Mullenbach</p>
     <p>Alex Buchanan</p>
+    <p>Sean Meyer</p>
     <p></p>
     @yield('sub_content')
 @endsection
