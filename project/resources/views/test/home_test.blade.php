@@ -22,5 +22,6 @@
     <p>Geeorge Krenik</p>
     <p>Spencer Davis</p>
     <p>Jeremy Viet</p>
+	<p>Alex Blumer</p>
     @yield('sub_content')
 @endsection
