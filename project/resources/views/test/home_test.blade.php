@@ -10,19 +10,19 @@
 	
 	<p>Dr. Joan here. Hold off on that HipChat group until you get the word from the Proj. Management team.</p>
 
-    <p>Zach Newell</p>
-    <p>Blake Smola</p>
-    <p>Lukas Hoover</p>
-	<p>Thor Holmquist</p>
-    <p>Matt Mullenbach</p>
+    <p>Alex Blumer</p>
     <p>Alex Buchanan</p>
-    <p>Sean Meyer</p>
-    <p>Min Lee</p>
-    <p>Jordan Brockopp</p>
+    <p>Blake Smola</p>
     <p>Geeorge Krenik</p>
-    <p>Spencer Davis</p>
     <p>Jeremy Viet</p>
-	<p>Alex Blumer</p>
+    <p>Jordan Brockopp</p>
+    <p>Lukas Hoover</p>
+    <p>Matt Mullenbach</p>
+    <p>Min Lee</p>
+    <p>Sean Meyer</p>
+    <p>Spencer Davis</p>
     <p>Taylor Smith</p>
+    <p>Thor Holmquist</p>
+    <p>Zach Newell</p>
     @yield('sub_content')
 @endsection
