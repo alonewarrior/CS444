@@ -21,5 +21,6 @@
     <p>Jordan Brockopp</p>
     <p>Geeorge Krenik</p>
     <p>Spencer Davis</p>
+    <p>Jeremy Viet</p>
     @yield('sub_content')
 @endsection
