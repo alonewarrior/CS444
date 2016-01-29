@@ -23,5 +23,6 @@
     <p>Spencer Davis</p>
     <p>Jeremy Viet</p>
 	<p>Alex Blumer</p>
+    <p>Taylor Smith</p>
     @yield('sub_content')
 @endsection
