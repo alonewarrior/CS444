@@ -20,6 +20,6 @@
     <p>Min Lee</p>
     <p>Jordan Brockopp</p>
     <p>Geeorge Krenik</p>
-    <p></p>
+    <p>Spencer Davis</p>
     @yield('sub_content')
 @endsection
