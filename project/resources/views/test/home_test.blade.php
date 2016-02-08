@@ -19,6 +19,7 @@
     <p>Lukas Hoover</p>
     <p>Matt Mullenbach</p>
     <p>Min Lee</p>
+    <p>Nick Soranno</p>
     <p>Sean Meyer</p>
     <p>Spencer Davis</p>
     <p>Taylor Smith</p>
